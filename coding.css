@@ -100,7 +100,7 @@ nav{
     line-height: 48px;
 }
 .navall a:hover{
-    color: blue;
+    color: blue !important;
 }
 .content1{
     background: rgb(235, 238, 240);
